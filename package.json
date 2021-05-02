@@ -1,0 +1,21 @@
+{
+  "name": "expressdemo",
+  "version": "1.0.0",
+  "description": "This is a express demo",
+  "main": "module1.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "demo",
+    "easy",
+    "learning"
+  ],
+  "author": "Aditi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
