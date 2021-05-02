@@ -1,4 +1,2 @@
 # ansible-demo
-To run:
-1. npm install
-2. npm start
+A very simple web application using nodejs
